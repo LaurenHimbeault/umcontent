@@ -1,0 +1,11 @@
+This repository contains both code and teaching materials.  
+Different licenses apply depending on the type of file:  
+
+1. Code Examples (any files with extensions such as .java, .py, .cpp, etc.):  
+   Licensed under the MIT License. See "LICENSE-CODE" for details.  
+
+2. Teaching Materials (slides, PDFs, Markdown notes, written content):  
+   Licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.  
+   See "LICENSE-MATERIALS" for details.  
+
+By contributing to this repository, you agree that your contributions will be released under these same licenses.
