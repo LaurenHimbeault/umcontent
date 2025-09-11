@@ -1,0 +1,22 @@
+| Video    | Name                                          | Description                          | Link                                                                                        | Length   |
+| -------- | --------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------- | -------- |
+| **2.1**  | **Proving n³ + n + 1 is in O(n⁴)**            | ... use round-up trick...            | [https://www.youtube.com/watch?v=Fy-nuBcJOrA](https://www.youtube.com/watch?v=Fy-nuBcJOrA)  | 00:12:27 |
+| **2.2**  | **Proving 3n² + n is in O(n²)**               | ...                                  | [https://www.youtube.com/watch?v=FwHwtNUsCWA](https://www.youtube.com/watch?v=FwHwtNUsCWA)  | 00:07:18 |
+| **2.3**  | **Proving 2n⁵ − 7n³ is in Ω(n⁵)**             | ...                                  | [https://www.youtube.com/watch?v=eNcYjvtP6Yo](https://www.youtube.com/watch?v=eNcYjvtP6Yo)  | 00:07:31 |
+| **2.4**  | **Proving 6n⁸ − 7n² is in O(n⁸)**             | ... dropping unneeded terms trick... | [https://www.youtube.com/watch?v=FRxJx4VT4f8](https://www.youtube.com/watch?v=FRxJx4VT4f8)  | 00:03:48 |
+| **2.5**  | **Why 3n⁵ − 10n is NOT in O(n³)**             | ...                                  | [https://www.youtube.com/watch?v=yWqY4hZ0TIs](https://www.youtube.com/watch?v=yWqY4hZ0TIs)  | 00:10:58 |
+| **2.6**  | **Why n⁴ − 4n² is NOT in O(n³)**              | ...                                  | [https://www.youtube.com/watch?v=KiDJ\_aKB4bs](https://www.youtube.com/watch?v=KiDJ_aKB4bs) | 00:07:32 |
+| **2.7**  | **Multiple-Choice: Determining Big-O Orders** | ...                                  | [https://www.youtube.com/watch?v=i6EPdUbb5yw](https://www.youtube.com/watch?v=i6EPdUbb5yw)  | 00:13:07 |
+| **2.8**  | **Proving 5n + 1 is in Θ(n)**                 | ...                                  | [https://www.youtube.com/watch?v=5j6bbfGkMeo](https://www.youtube.com/watch?v=5j6bbfGkMeo)  | 00:06:27 |
+| **2.9**  | **Why n³ is NOT in Θ(7n²+1)**                 | ...                                  | [https://www.youtube.com/watch?v=MhtQD\_5lhjI](https://www.youtube.com/watch?v=MhtQD_5lhjI) | 00:09:24 |
+| **2.10** | **Why 3ⁿ is NOT in Θ(6ⁿ − 5ⁿ)**               | ...                                  | [https://www.youtube.com/watch?v=yByhx2U-ldc](https://www.youtube.com/watch?v=yByhx2U-ldc)  | 00:10:48 |
+| **2.11** | **Proving n⁷+8n⁶ is in little-ω(n⁵+1)**       | ...                                  | [https://www.youtube.com/watch?v=Jq7Ijz-drjk](https://www.youtube.com/watch?v=Jq7Ijz-drjk)  | 00:13:45 |
+| **2.12** | **Why n² − 8n is NOT in little-o(n²)**        | ...                                  | [https://www.youtube.com/watch?v=4XtVV3gyqIo](https://www.youtube.com/watch?v=4XtVV3gyqIo)  | 00:08:39 |
+| **2.13** | **Proving log₂(4ⁿ+1) is in little-o(n²)**     | ...                                  | [https://www.youtube.com/watch?v=CWQoefqujCA](https://www.youtube.com/watch?v=CWQoefqujCA)  | 00:09:51 |
+| **2.14** | **Proving n²+1 is in little-o(n²)**           | ...                                  | [https://www.youtube.com/watch?v=tHmQyh-xa0g](https://www.youtube.com/watch?v=tHmQyh-xa0g)  | 00:08:34 |
+| **2.15** | **Proving n³ is in O(n³+1)**                  | ...                                  | [https://www.youtube.com/watch?v=Z74mmZzgIcc](https://www.youtube.com/watch?v=Z74mmZzgIcc)  | 00:10:30 |
+| **2.16** | **Proving n log₃n is in little-o(n³)**        | ...                                  | [https://www.youtube.com/watch?v=ho5NDvNJq\_E](https://www.youtube.com/watch?v=ho5NDvNJq_E) | 00:08:27 |
+| **2.17** | **Proving n log₃n is in little-o(n³) (alt)**  | ...                                  | [https://www.youtube.com/watch?v=J2\_pHabhlUw](https://www.youtube.com/watch?v=J2_pHabhlUw) | 00:09:09 |
+| **2.18** | **Proving n·2ⁿ is in little-o(4ⁿ)**           | ...                                  | [https://www.youtube.com/watch?v=NO6hFP\_MlSw](https://www.youtube.com/watch?v=NO6hFP_MlSw) | 00:07:21 |
+| **2.19** | **Proving n²+1 is in Θ(n²)**                  | ...                                  | [https://www.youtube.com/watch?v=xVPlZSwT4eY](https://www.youtube.com/watch?v=xVPlZSwT4eY)  | 00:09:14 |
+| **2.20** | **Abstract Proofs with Big-O and Θ**          | ...                                  | [https://www.youtube.com/watch?v=69arTvACPNg](https://www.youtube.com/watch?v=69arTvACPNg)  | 00:18:32 |
