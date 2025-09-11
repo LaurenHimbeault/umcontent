@@ -1,10 +1,10 @@
 # COMP 3350 - Winter 2026
 
-Welcome to the repository for **Software Engineering I, Winter 2026** 
+Welcome to the repository for **Software Engineering I, Winter 2026**
 This repo contains:
 
-- **Lecture slides** 
-- **Video lectures** 
+- **Lecture slides**
+- **Video lectures**
 
 All materials are organized by **week**, with direct links for easy navigation.
 
@@ -35,9 +35,9 @@ All materials are organized by **week**, with direct links for easy navigation.
 
 ## 📢 Notes
 
-- **Updates:** This repository will be updated periodically as required.
-- **Licensing:** Unless otherwise noted, all course materials are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-- **Contact:** For questions, email Lauren.Himbeault@umanitoba.ca
+- **Updates:**This repository will be updated periodically as required.
+- **Licensing:**Unless otherwise noted, all course materials are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- **Contact:**For questions, email Lauren.Himbeault@umanitoba.ca
 
 ---
 
