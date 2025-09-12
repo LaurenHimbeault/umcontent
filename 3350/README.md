@@ -1,6 +1,6 @@
-# COMP 3350 - Winter 2026
+# COMP 3350
 
-Welcome to the repository for **Software Engineering I, Winter 2026**
+Welcome to the content repository for **Software Engineering I**
 This repo contains:
 
 - **Lecture slides**
