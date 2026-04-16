@@ -6,14 +6,3 @@
 | **5.3\[See below\*\]** | **SOLID (Part 1: SRP, OCP, LSP)**                  | Begin learning the SOLID principles with Single Responsibility, Open/Closed, and Liskov Substitution. See real examples of violations, explore strategies like the strategy pattern, and test your understanding with scenarios. |https://youtu.be/bm3c9uSU2i4| 00:31:00       |
 | **5.4** | **SOLID (Part 2: ISP, DIP)\[See below\*\]**                       | Continue with Interface Segregation and Dependency Inversion. Learn how to avoid “fat” interfaces, apply dependency injection, and refactor code step by step to follow SOLID.                                                   | https://youtu.be/kmTJ-myG4to        | 00:21:35       |
 | **5.5** | **Refactoring Code: Common Smells & Fixes**        | Discover common code smells such as long methods, shotgun surgery, and god classes. Learn how to fix them with SOLID principles and see a refactoring demo that shows cleaner, testable design without changing behavior.        | https://youtu.be/aaBsAFAoGWA        | 00:24:33       |
-
-
-## Student Feedback Informed me these videos were **TOO LONG**. If you prefer bite-sized videos, you may view the following SOLID Principle videos instead
-
-| Video   | Name                                               | Description                                                                                                                                                                                                                      | Video Link | Video Length |
-| ------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
-| **5.3.S** | **SRP: Single Responsibility Principle Explained** | Let’s explore the ’S’ is the SOLID design principles, making our way toward cleaner and more readable code.          | https://youtu.be/jSdbNOqye78       | 00:07:47       |
-| **5.3.O**  | **OCP: Open Closed Principle Explain** | Let’s explore the ’O’ is the SOLID design principles, making our way toward cleaner and more readable code.    |https://youtu.be/ISSs4_Jwd1E | 00:05:08       |
-| **5.4.L** | **LSP: Liskov Substitution Principle Explained** | Let’s explore the ’L’ is the SOLID design principles, making our way toward cleaner and more readable code. | https://youtu.be/KJ9PQbah5Fw | 00:07:35 |
-| **5.4.I** | **ISP: Interface Segregation Principle Explained** | Let’s explore the ’I’ is the SOLID design principles, making our way toward cleaner and more readable code.  | TBD | TBD      |
-| **5.4.D** | **DIP: Dependency Inversion Principle Explained** | Let’s explore the ’D’ is the SOLID design principles, making our way toward cleaner and more readable code. | TBD | TBD      |
